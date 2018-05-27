@@ -4,7 +4,7 @@ In this demo, another from Wes Bos's amazing [JavaScript 30 course](https://java
 
 Check it out on:
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/shift_multiple_checkboxes/)
 
 [Codepen](https://codepen.io/whyohengee/pen/aGPyPK)
 
